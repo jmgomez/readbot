@@ -13,7 +13,7 @@ Installation
 Its on pypi!
 
 ```shell
-$ pip install tesseract
+$ pip install readbot
 ```
 
 **Tesseract**
